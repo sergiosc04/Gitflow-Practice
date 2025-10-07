@@ -4,3 +4,4 @@
 
 ## v1.0.0
  - Finished login page
+ - Typo in readme
