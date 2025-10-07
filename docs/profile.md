@@ -3,3 +3,4 @@
  - username
  - bio
  - password
+ - about me
