@@ -1,4 +1,6 @@
 # Gitflow Practice - Sergio Serrano
 
 ## Changelog
- - Added login page
+
+## v1.0.0
+ - Finished login page
